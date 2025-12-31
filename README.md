@@ -44,4 +44,4 @@ The analysis provides biological insights by modeling proteins as **Nodes** and 
     ```
 
 ## 📄 Documentation
-For a detailed explanation of the graph metrics and biological interpretations, refer to the [Final Report](docs/PPI_Analysis_Report.pdf).
+For a detailed explanation of the graph metrics and biological interpretations, refer to the [Final Report](docs\Graph-Based Analysis of Protein-Protein Interactions for Biological Insights.pdf).
