@@ -1,0 +1,8 @@
+Path: Q9HBV2 -> O14733 -> Q99459 -> Q9Y4W2
+Total Score: 0.1750123125
+Confidence: [0.311133, 0.75, 0.75]
+
+Path: Q9HBV2 -> Q14680 -> Q99459 -> Q9Y4W2
+Total Score: 0.1750123125
+Confidence: [0.311133, 0.75, 0.75]
+
